@@ -1,5 +1,5 @@
 # Mew-Dark
-Dark color scheme for KDE to fit my own likes and because there was no dark scheme dark enough for me on the KDE store.
+Dark color scheme for KDE to fit my own likes and because there was no dark scheme dark enough for me on the KDE store. I use this color scheme with [Klassy](https://github.com/paulmcauley/klassy) usually but it looks great with stock Breeze too. I will continue to push changes as I update this further.
 
 To install, open a terminal and type the following:
 
