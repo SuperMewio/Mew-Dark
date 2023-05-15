@@ -1,5 +1,5 @@
 # Mew-Dark
-Dark color scheme for KDE to fit my own likes and because there was no dark scheme dark enough for me on KDE
+Dark color scheme for KDE to fit my own likes and because there was no dark scheme dark enough for me on the KDE store.
 
 To install, open a terminal and type the following:
 
