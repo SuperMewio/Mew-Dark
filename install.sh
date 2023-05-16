@@ -5,7 +5,7 @@
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Specify the source directory where the color scheme file is located
-SOURCE_DIR="$SCRIPT_DIR/Color-Scheme"
+SOURCE_DIR="$SCRIPT_DIR/color-schemes"
 
 # Specify the target directory where the color schemes will be installed
 COLOR_SCHEME_DIR="$HOME/.local/share/color-schemes"
