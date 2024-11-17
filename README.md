@@ -13,7 +13,7 @@ chmod +x install.sh
 ```
 
 
-![alt text](https://github.com/SuperMewio/Mew-Dark/blob/main/Preview/preview.png)
+![alt text](https://github.com/SuperMewio/Mew-Dark/blob/main/Preview/mini-preview.png)
 
 
 TODO
