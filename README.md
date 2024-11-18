@@ -12,5 +12,6 @@ chmod +x install.sh
 ./install.sh
 ```
 
+If you do not like the new variant of the theme, you can use <code>OLD/MewDarkExperimental2.colors</code> for the previous iteration.
 
 ![alt text](https://github.com/SuperMewio/Mew-Dark/blob/main/Preview/mini-preview.png)
