@@ -14,8 +14,3 @@ chmod +x install.sh
 
 
 ![alt text](https://github.com/SuperMewio/Mew-Dark/blob/main/Preview/mini-preview.png)
-
-
-TODO
-- Ask where to install
-- Ability to install to <code>/usr/share/color-schemes</code>
