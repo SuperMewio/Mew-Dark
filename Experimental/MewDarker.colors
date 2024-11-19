@@ -52,10 +52,10 @@ BackgroundNormal=35,35,35
 ForegroundActive=248,98,10
 
 [Colors:Selection]
-BackgroundAlternate=248,98,10
-BackgroundNormal=248,98,10
-DecorationFocus=248,98,10
-DecorationHover=248,98,10
+BackgroundAlternate=177,65,0
+BackgroundNormal=177,65,0
+DecorationFocus=177,65,0
+DecorationHover=177,65,0
 ForegroundActive=109,64,18
 ForegroundInactive=35,35,35
 ForegroundLink=253,230,58
